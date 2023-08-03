@@ -9,7 +9,7 @@
 
 1. [Getting Started](#getting-started)
 2. [Google Classroom Overview](#google-classroom-overview)
-3. [Do Now & GitHub](#do-now-github)
+3. [GitHub](#github)
 4. [Coding Practice](#coding-practice)
 5. [Sharing & Shout Outs](#sharing-shout-outs)
 
@@ -25,15 +25,11 @@ Google Classroom is a virtual classroom used to share class materials, exchange 
 - **Assignments & Classwork tab:** All resources and assignments will be found in the Classwork tab. The "View your work" button will show every assignment and its status.
 - **CN Reference Table:** At the top of the Classwork tab, you'll find the Code Nation Reference Table. This is a great place to look for examples if you get stuck during an assignment.
 
-## Do Now & GitHub
+## GitHub
 
 Next, we'll be setting up a GitHub account, a platform used by developers to share and work on code. It'll be an essential tool for your journey in Code Nation.
 
-Once your account is set up, we'll be jumping into our first collaborative coding exercise where we write a simple poem together. We'll also answer some web-related questions, such as:
-
-1. How many people use the Internet every day?
-2. What is the definition of web development?
-3. What percentage of software engineers are female?
+Once your account is set up, we'll be jumping into our first collaborative coding exercise where we write a simple poem together.
 
 ## Coding Practice
 
